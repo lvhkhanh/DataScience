@@ -19,3 +19,7 @@
 ## [Data Analysis with Python - cognitiveclass](https://cognitiveclass.ai/courses/data-analysis-python)
 ## [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
 ## [Analyze Data with Python - Codecademy](https://www.codecademy.com/learn/paths/analyze-data-with-python)
+# Machine Learning
+## [Machine Learning - Stanford](https://www.coursera.org/learn/machine-learning)
+# Deep Learning
+## [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning)
