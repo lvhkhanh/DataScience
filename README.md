@@ -18,3 +18,4 @@
 ## [Analyzing Data with Python - IBM](https://www.edx.org/course/analyzing-data-with-python)
 ## [Data Analysis with Python - cognitiveclass](https://cognitiveclass.ai/courses/data-analysis-python)
 ## [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
+## [Analyze Data with Python - Codecademy](https://www.codecademy.com/learn/paths/analyze-data-with-python)
