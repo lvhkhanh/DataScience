@@ -12,3 +12,4 @@
 ### [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
 ### [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
 ## [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+## [Introduction to Data Science - Microsoft](https://www.edx.org/course/introduction-to-data-science-2)
