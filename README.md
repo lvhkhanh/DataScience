@@ -1,6 +1,7 @@
 # DataScience
 ## Paths
 ### https://cognitiveclass.ai/learn/data-science
+### [Scala Programming for Data Science](https://cognitiveclass.ai/learn/scala)
 
 * [CHOOSE YOUR DATA SCIENCE PATH - THE FUTURE IS YOURS](https://www.edx.org/data-science-2020)
 * [Data Science](https://www.codecademy.com/learn/paths/data-science)
