@@ -27,3 +27,7 @@
 ## [Machine Learning - Stanford](https://www.coursera.org/learn/machine-learning)
 # Deep Learning
 ## [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning)
+
+
+## Links
+- [ ] https://www.w3schools.com/datascience/default.asp
