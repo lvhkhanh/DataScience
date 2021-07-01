@@ -2,7 +2,7 @@
 ## Preprequites
 - [ ] https://www.w3schools.com/python/default.asp
 ## Course
-- [ ] https://www.w3schools.com/datascience/default.asp
+- [x] https://www.w3schools.com/datascience/default.asp
 ## Paths
 ### https://cognitiveclass.ai/learn/data-science
 ### [Scala Programming for Data Science](https://cognitiveclass.ai/learn/scala)
